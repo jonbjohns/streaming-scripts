@@ -1,0 +1,37 @@
+{
+    "heading": [
+        "heading",
+        "another heading"
+    ],
+
+    "response": [
+        "first response",
+        "second response",
+        "third response"
+    ],
+
+    "template": [
+        "@person is a key reference, there can be many key references in a value"
+    ],
+
+    "person": [
+        "@leader",
+        "@merchant",
+        "@faction"
+    ],
+    "leader": [
+        "The Mayor"
+    ],
+    "merchant": [
+        "@merchanttype merchant"
+    ],
+     "merchanttype": [
+        "A department store",
+        "A mall"
+    ],
+    "faction": [
+        "The mafia",
+        "Just 5 guys",
+        "Neo Genesis"
+    ]
+}
